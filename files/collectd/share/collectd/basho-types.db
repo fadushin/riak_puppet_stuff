@@ -1,0 +1,2 @@
+histogram		median:GAUGE:0:U, mean:GAUGE:0:U, p95:GAUGE:0:U, p99:GAUGE:0:U, p100:GAUGE:0:U
+otp_memory		ets:GAUGE:0:U, processes:GAUGE:0:U, code:GAUGE:0:U, binary:GAUGE:0:U, atom_used:GAUGE:0:U, atom:GAUGE:0:U, system:GAUGE:0:U, processes_used:GAUGE:0:U, allocated:GAUGE:0:U, total:GAUGE:0:U
